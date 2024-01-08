@@ -107,5 +107,7 @@ A list of CodeNight Telegram Group Developer
 ### Developer 1
 - **Name:** Dagmawi Babi
 - **GitHub:** [dagmawibabi](https://github.com/dagmawibabi)
+- **Website:** https://DagmawiBabi.com
+- **Social Media:** https://t.me/dagmawi_babi
 - **Bio:** Dagmawi Babi is a fullstack developer and devops engineer, who can also do flutter.
 
