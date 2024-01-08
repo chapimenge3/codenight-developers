@@ -45,6 +45,10 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** Brief description or specialties in JavaScript development. -->
 
 <!-- Add more JavaScript developers as needed -->
+### Developer 3
+- **Name:** Haileiyesus Mesafint
+- **GitHub:** [SE](https://github.com/haileiyesus-29)
+- **Bio:** I'm a fullstack javascript developer and software engineering student at AASTU. currently open for jobs.
 
 ## Java Developers
 <!-- 
