@@ -78,12 +78,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [Haileiyesus](https://github.com/haileiyesus-29)
 - **Bio:** A sfullstack javascipt and Typescript developer. currently open for jobs.
 
-### Developer 5
+### Developer 6
 - **Name:** Abel Ayalew
 - **GitHub:** [nabroleonx](https://github.com/nabroleonx)
 - **Bio:** (M|P)ERN stack dev with a knack for building creative solutions
 
-### Developer 6
+### Developer 7
 - **Name:** Aman Negussie (Manny)
 - **GitHub:** [MannyNe](https://github.com/MannyNe)
 - **Bio:** A Backend Heavy Fullstack Web and App developer, with a background in DevSecOps, powered by coffee. TS is love, TS is life. <3 :))
