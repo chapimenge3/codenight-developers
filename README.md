@@ -39,6 +39,7 @@ A list of CodeNight Telegram Group Developer
 - **GitHub:** [Bekacru](https://github.com/Bekacru)
 - **Bio:** _
 
+
 ### Developer 2
 - **Name:** Amanuael Kebede
 - **GitHub:** [Blogrammer](https://github.com/Manuel-heav)
@@ -50,6 +51,10 @@ A list of CodeNight Telegram Group Developer
 - **Website:** https://robi.work
 - **Bio:** A Meticulous Fullstack developer, in love with building & delivering clockwork level solutions A.S.A.P. ❤️ Svelte and TS .
 
+### Developer 4
+- **Name:** Tamirat K.
+- **GitHub:** [Tamirat](https://github.com/kika1s1)
+- **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
 
 <!-- ### Developer 2
 - **Name:** Emily Davis
