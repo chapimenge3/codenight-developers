@@ -26,7 +26,6 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** Python backend and android developer :)
 
 
-
 ### Developer 3
 - **Name:** Yaekob Demisse
 - **GitHub:** [Jamescog](https://github.com/Jamescog)
@@ -38,6 +37,13 @@ and Web Scrapping. Learning and Improving Daily.
 - **Name:** Dawit Getachew
 - **GitHub:** [Dawit Getachew](https://github.com/Dawit-Getachew)
 - **Bio:** I'm Backend Developer and DevOps Engineer.
+
+### Developer 5
+- **Name:** Kibreab Teshome
+- **GitHub:** [kibreab teshome](https://github.com/kibreab_kb_kb)
+- **Website:**
+- **Bio:**  I'm  a React developer starting backend with Django
+
 
 <!-- ### Developer 2
 - **Name:** Jane Smith
