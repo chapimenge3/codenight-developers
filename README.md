@@ -57,6 +57,11 @@ A list of CodeNight Telegram Group Developer
 - **GitHub:** [Tamirat](https://github.com/kika1s1)
 - **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
 
+### Developer 5
+- **Name:** Haileiyesus.
+- **GitHub:** [Haileiyesus](https://github.com/haileiyesus-29)
+- **Bio:** A fullstack javascript developer and software engineering student at AASTU.
+
 <!-- ### Developer 2
 - **Name:** Emily Davis
 - **GitHub:** [emilydavis](https://github.com/emilydavis)
@@ -69,6 +74,7 @@ A list of CodeNight Telegram Group Developer
 - **Name:** Kerod Kibatu
 - **GitHub:** [kerodkibatu](https://github.com/kerodkibatu)
 - **Bio:** Meet Kerod, [Content Creator](https://youtube.com/@kerverse), Author of the [Chapa .NET SDK](https://github.com/kerodkibatu/Chapa.NET) and an Expert in Crossplatform App Development, I am constantly seeking out new challenges to overcome and continuously improving my skills. In addition to my love for Technology, I also enjoy AI/ML, Robotics, Creative Coding.
+
 
 ## Java Developers
 <!-- 
@@ -134,10 +140,4 @@ A list of CodeNight Telegram Group Developer
 - **Website:** https://DagmawiBabi.com
 - **Social Media:** https://t.me/dagmawi_babi
 - **Bio:** Dagmawi Babi is a fullstack developer and devops engineer, who can also do flutter.
-
-### Developer 2
-- **Name:** Dawit Beyene
-- **GitHub:** [Dawit Beyene](https://github.com/daveragos)
-- **Social Media:** https://t.me/ragoose_dumps
-- **Bio:** just a flutter dev
 
