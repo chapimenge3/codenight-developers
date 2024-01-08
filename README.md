@@ -34,6 +34,11 @@ A list of CodeNight Telegram Group Developer
 - **GitHub:** [Bekacru](https://github.com/Bekacru)
 - **Bio:** _
 
+### Developer 2
+- **Name:** Amanuael Kebede
+- **GitHub:** [Blogrammer](https://github.com/Manuel-heav)
+- **Bio:** I'm a MERN stack developer, and I love React. Sue me! I'm also currently freelancing and looking for remote opportunities. 
+
 <!-- ### Developer 2
 - **Name:** Emily Davis
 - **GitHub:** [emilydavis](https://github.com/emilydavis)
