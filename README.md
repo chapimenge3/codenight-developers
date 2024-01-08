@@ -9,6 +9,7 @@ A list of CodeNight Telegram Group Developer
 - [C++ Developers](#c-developers)
 - [Ruby Developers](#ruby-developers)
 - [Go Developers](#go-developers)
+- [Flutter Developers](#flutter-developers)
 
 ## Python Developers
 
@@ -18,6 +19,11 @@ A list of CodeNight Telegram Group Developer
 - **Website:** https://chapimenge.com
 - **Bio:** Chapi is a Python backend developer and AWS aficionado. With 4+ years of experience in Serverless, Django, API development, and Automation Development. Quality, scalability, and serverless magic are my specialties. Let's create something awesome together! 😄✨.
 
+
+### Developer 2
+- **Name:** Naol Ketema
+- **GitHub:** [ ALPHACOD3RS ](https://github.com/ALPHACOD3RS)
+- **Bio:** Python backend and android developer :)
 
 <!-- ### Developer 2
 - **Name:** Jane Smith
@@ -34,15 +40,26 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** _
 
 
-<!-- ### Developer 2
-- **Name:** Emily Davis
-- **GitHub:** [emilydavis](https://github.com/emilydavis)
-- **Bio:** Brief description or specialties in JavaScript development. -->
+### Developer 2
+- **Name:** Amanuael Kebede
+- **GitHub:** [Blogrammer](https://github.com/Manuel-heav)
+- **Bio:** I'm a MERN stack developer, and I love React. Sue me! I'm also currently freelancing and looking for remote opportunities. 
+
 ### Developer 3
+- **Name:** Robel Mezemir ( Robi )
+- **GitHub:** [Robimez](https://github.com/robimez)
+- **Website:** https://robi.work
+- **Bio:** A Meticulous Fullstack developer, in love with building & delivering clockwork level solutions A.S.A.P. ❤️ Svelte and TS .
+
+### Developer 4
 - **Name:** Tamirat K.
 - **GitHub:** [Tamirat](https://github.com/kika1s1)
 - **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
 
+<!-- ### Developer 2
+- **Name:** Emily Davis
+- **GitHub:** [emilydavis](https://github.com/emilydavis)
+- **Bio:** Brief description or specialties in JavaScript development. -->
 
 <!-- Add more JavaScript developers as needed -->
 
@@ -101,4 +118,13 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** Brief description or specialties in Go development. -->
 
 <!-- Add more Go developers as needed -->
+
+## Flutter Developers
+
+### Developer 1
+- **Name:** Dagmawi Babi
+- **GitHub:** [dagmawibabi](https://github.com/dagmawibabi)
+- **Website:** https://DagmawiBabi.com
+- **Social Media:** https://t.me/dagmawi_babi
+- **Bio:** Dagmawi Babi is a fullstack developer and devops engineer, who can also do flutter.
 
