@@ -1,4 +1,4 @@
-# codenight-developers
+![image](https://github.com/Manuel-heav/codenight-developers/assets/66178225/d7aab8b4-cb62-4dbf-b72b-fe16c78775ab)# codenight-developers
 A list of CodeNight Telegram Group Developer
 
 ## Table of Contents
@@ -32,6 +32,11 @@ A list of CodeNight Telegram Group Developer
 - **Name:** Bereket Engida
 - **GitHub:** [Bekacru](https://github.com/Bekacru)
 - **Bio:** _
+
+### Developer 2
+- **Name:** Amanuael Kebede
+- **GitHub:** [Blogrammer](https://github.com/Manuel-heav)
+- **Bio:**Eager MERN Stack Dev  
 
 <!-- ### Developer 2
 - **Name:** Emily Davis
