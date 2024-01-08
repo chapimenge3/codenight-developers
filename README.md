@@ -72,6 +72,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [nabroleonx](https://github.com/nabroleonx)
 - **Bio:** (M|P)ERN stack dev with a knack for building creative solutions
 
+### Developer 6
+- **Name:** Aman Negussie (Manny)
+- **GitHub:** [MannyNe](https://github.com/MannyNe)
+- **Bio:** A Backend Heavy Fullstack Web and App developer, with a background in DevSecOps, powered by coffee. TS is love, TS is life. <3 :))
+
 <!-- ### Developer 2
 - **Name:** Emily Davis
 - **GitHub:** [emilydavis](https://github.com/emilydavis)
