@@ -11,7 +11,7 @@ A list of CodeNight Telegram Group Developer
 - [Ruby Developers](#ruby-developers)
 - [Go Developers](#go-developers)
 - [Flutter Developers](#flutter-developers)
-- [PHP Developers](#php-developers)
+
 ## Python Developers
 
 ### Developer 1
@@ -66,16 +66,6 @@ and Web Scrapping. Learning and Improving Daily.
 - **Name:** Tamirat K.
 - **GitHub:** [Tamirat](https://github.com/kika1s1)
 - **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
-
-### Developer 5
-- **Name:** Abel Ayalew
-- **GitHub:** [nabroleonx](https://github.com/nabroleonx)
-- **Bio:** (M|P)ERN stack dev with a knack for building creative solutions
-
-### Developer 6
-- **Name:** Aman Negussie (Manny)
-- **GitHub:** [MannyNe](https://github.com/MannyNe)
-- **Bio:** A Backend Heavy Fullstack Web and App developer, with a background in DevSecOps, powered by coffee. TS is love, TS is life. <3 :))
 
 <!-- ### Developer 2
 - **Name:** Emily Davis
@@ -134,10 +124,17 @@ and Web Scrapping. Learning and Improving Daily.
 
 ## Go Developers
 
-### Developer 1
-- **Name:** Dera Adugna.
-- **GitHub:** [Dru-Go](https://github.com/Dru-Go)
-- **Bio:** I don't always write bugs, but when I do, I make sure they're really hard to find!
+<!-- ### Developer 1
+- **Name:** Ethan Martinez
+- **GitHub:** [ethanmartinez](https://github.com/ethanmartinez)
+- **Bio:** Brief description or specialties in Go development.
+
+### Developer 2
+- **Name:** Mia Wilson
+- **GitHub:** [miawilson](https://github.com/miawilson)
+- **Bio:** Brief description or specialties in Go development. -->
+
+<!-- Add more Go developers as needed -->
 
 ## Flutter Developers
 
@@ -148,16 +145,9 @@ and Web Scrapping. Learning and Improving Daily.
 - **Social Media:** https://t.me/dagmawi_babi
 - **Bio:** Dagmawi Babi is a fullstack developer and devops engineer, who can also do flutter.
 
-## PHP Developers
-
-### Developer 1
-- **Name:** Abdurahman Abdela
-- **GitHub:** [Abdurahman Abdela](https://github.com/abdurahmanab)
-- **Bio:** Abdurahman Abdela is a software engineering studnet at ASTU  that have experience in php and laravel.
-
 ### Developer 2
 - **Name:** Dawit Beyene
-- **GitHub:** [Dawit Beyene](https://github.com/daveragos)
-- **Social Media:** https://t.me/ragoose_dumps
-- **Bio:** just a flutter dev
+- **GitHub:** [Dave RaGoose](https://github.com/daveragos)
+- **Social Media:** [Ragoose Dumps](https://t.me/ragoose_dumps)
+- **Bio:** a Flutter dev, who is 👨‍💻 Tech Enthusiast,📱 Flutter Aficionado, 🔧 Problem Solver and 🎓 Continuous Learner that is 🚗 Driven by Passion so 🌟 Connect with me on [Telegram](https://t.me/Daveyeindeko), [LinkedIn](https://www.linkedin.com/in/dave-ragoose/) and [x](https://twitter.com/dave_ragos)
 
