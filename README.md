@@ -20,12 +20,10 @@ A list of CodeNight Telegram Group Developer
 - **Website:** https://chapimenge.com
 - **Bio:** Chapi is a Python backend developer and AWS aficionado. With 4+ years of experience in Serverless, Django, API development, and Automation Development. Quality, scalability, and serverless magic are my specialties. Let's create something awesome together! 😄✨.
 
-
 ### Developer 2
 - **Name:** Naol Ketema
 - **GitHub:** [ ALPHACOD3RS ](https://github.com/ALPHACOD3RS)
 - **Bio:** Python backend and android developer :)
-
 
 ### Developer 3
 - **Name:** Yaekob Demisse
@@ -44,7 +42,6 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [kibreab teshome](https://github.com/kibreab_kb_kb)
 - **Website:**
 - **Bio:**  I'm  a React developer starting backend with Django
-
 
 <!-- ### Developer 2
 - **Name:** Jane Smith
@@ -76,6 +73,10 @@ and Web Scrapping. Learning and Improving Daily.
 - **Name:** Tamirat K.
 - **GitHub:** [Tamirat](https://github.com/kika1s1)
 - **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
+### Developer 5
+- **Name:** Haileiyesus.
+- **GitHub:** [Haileiyesus](https://github.com/haileiyesus-29)
+- **Bio:** A sfullstack javascipt and Typescript developer. currently open for jobs.
 
 ### Developer 5
 - **Name:** Abel Ayalew
