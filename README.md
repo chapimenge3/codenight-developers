@@ -36,7 +36,7 @@ A list of CodeNight Telegram Group Developer
 ### Developer 2
 - **Name:** Amanuael Kebede
 - **GitHub:** [Blogrammer](https://github.com/Manuel-heav)
-- **Bio:**Eager MERN Stack Dev  
+- **Bio:** Eager MERN Stack Dev  
 
 <!-- ### Developer 2
 - **Name:** Emily Davis
