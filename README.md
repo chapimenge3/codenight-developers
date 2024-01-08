@@ -13,113 +13,44 @@ A list of CodeNight Telegram Group Developer
 
 ## Python Developers
 
-### Developer 1
-- **Name:** Temkin Mengistu
-- **GitHub:** [Chapi Menge](https://github.com/chapimenge3)
-- **Website:** https://chapimenge.com
-- **Bio:** Chapi is a Python backend developer and AWS aficionado. With 4+ years of experience in Serverless, Django, API development, and Automation Development. Quality, scalability, and serverless magic are my specialties. Let's create something awesome together! 😄✨.
+| Name | GitHub | Read More |
+|---|---|---|
+|Temkin Mengistu|[chapimenge3](https://github.com/chapimenge3)|[Read More](https://github.com/chapimenge3/codenight-developers/blob/main/chapimenge3.md)|
 
 
-### Developer 2
-- **Name:** Naol Ketema
-- **GitHub:** [ ALPHACOD3RS ](https://github.com/ALPHACOD3RS)
-- **Bio:** Python backend and android developer :)
-
-<!-- ### Developer 2
-- **Name:** Jane Smith
-- **GitHub:** [janesmith](https://github.com/janesmith)
-- **Bio:** Brief description or specialties in Python development. -->
-
-<!-- Add more Python developers as needed -->
 
 ## JavaScript Developers
+<!-- table  -->
+| Name | GitHub | Read More |
+|---|---|---|
+|Bereket Engida| [Bekacru](https://github.com/Bekacru) |   [Read more](https://github.com/chapimenge3/codenight-developers/blob/main/Bekacru)|
+|Robel Mezemir ( Robi )| [Robimez](https://github.com/robimez) |   [Read more](https://robi.work)|
+|Theodore Negusu | 
 
-### Developer 1
-- **Name:** Bereket Engida
-- **GitHub:** [Bekacru](https://github.com/Bekacru)
-- **Bio:** _
-
-
-### Developer 2
-- **Name:** Amanuael Kebede
-- **GitHub:** [Blogrammer](https://github.com/Manuel-heav)
-- **Bio:** I'm a MERN stack developer, and I love React. Sue me! I'm also currently freelancing and looking for remote opportunities. 
-
-### Developer 3
-- **Name:** Robel Mezemir ( Robi )
-- **GitHub:** [Robimez](https://github.com/robimez)
-- **Website:** https://robi.work
-- **Bio:** A Meticulous Fullstack developer, in love with building & delivering clockwork level solutions A.S.A.P. ❤️ Svelte and TS .
-
-### Developer 4
-- **Name:** Tamirat K.
-- **GitHub:** [Tamirat](https://github.com/kika1s1)
-- **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
-
-<!-- ### Developer 2
-- **Name:** Emily Davis
-- **GitHub:** [emilydavis](https://github.com/emilydavis)
-- **Bio:** Brief description or specialties in JavaScript development. -->
-
-<!-- Add more JavaScript developers as needed -->
 
 ## Java Developers
-<!-- 
-### Developer 1
-- **Name:** Michael Brown
-- **GitHub:** [michaelbrown](https://github.com/michaelbrown)
-- **Bio:** Brief description or specialties in Java development.
 
-### Developer 2
-- **Name:** Sarah Lee
-- **GitHub:** [sarahlee](https://github.com/sarahlee)
-- **Bio:** Brief description or specialties in Java development. -->
+| Name | GitHub | Read More |
+|---|---|---|
 
-<!-- Add more Java developers as needed -->
 
 ## C++ Developers
 
-<!-- ### Developer 1
-- **Name:** Ryan Clark
-- **GitHub:** [ryanclark](https://github.com/ryanclark)
-- **Bio:** Brief description or specialties in C++ development.
 
-### Developer 2
-- **Name:** Olivia Turner
-- **GitHub:** [oliviaturner](https://github.com/oliviaturner)
-- **Bio:** Brief description or specialties in C++ development. -->
+| Name | GitHub | Read More |
+|---|---|---|
 
-<!-- Add more C++ developers as needed -->
 
-## Ruby Developers
-
-<!-- ### Developer 1
-- **Name:** William Garcia
-- **GitHub:** [williamgarcia](https://github.com/williamgarcia)
-- **Bio:** Brief description or specialties in Ruby development.
-
-### Developer 2
-- **Name:** Sophia Patel
-- **GitHub:** [sophiapatel](https://github.com/sophiapatel)
-- **Bio:** Brief description or specialties in Ruby development. -->
-
-<!-- Add more Ruby developers as needed -->
 
 ## Go Developers
+| Name | GitHub | Read More |
+|---|---|---|
 
-<!-- ### Developer 1
-- **Name:** Ethan Martinez
-- **GitHub:** [ethanmartinez](https://github.com/ethanmartinez)
-- **Bio:** Brief description or specialties in Go development.
-
-### Developer 2
-- **Name:** Mia Wilson
-- **GitHub:** [miawilson](https://github.com/miawilson)
-- **Bio:** Brief description or specialties in Go development. -->
-
-<!-- Add more Go developers as needed -->
 
 ## Flutter Developers
+| Name | GitHub | Read More |
+|---|---|---|
+|Dagmawi Babi| [dagmawibabi](https://github.com/dagmawibabi) |   [Read more](https://github.com/dagmawibabi/codenight-developers/blob/main/dagmawibabi.md)|
 
 ### Developer 1
 - **Name:** Dagmawi Babi
