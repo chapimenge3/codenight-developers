@@ -5,7 +5,6 @@ A list of CodeNight Telegram Group Developer
 
 - [Python Developers](#python-developers)
 - [JavaScript Developers](#javascript-developers)
-- [.NET Developers](#net-developers)
 - [Java Developers](#java-developers)
 - [C++ Developers](#c-developers)
 - [Ruby Developers](#ruby-developers)
@@ -38,8 +37,7 @@ A list of CodeNight Telegram Group Developer
 ### Developer 1
 - **Name:** Bereket Engida
 - **GitHub:** [Bekacru](https://github.com/Bekacru)
-- **Bio:** Bereket Engida is a full stack developer based on Addis Ababa. With a passion for building digital services/things he likes to make. He has a knack for all sort of things from coming up with unique ideas, to launching products, planning and designing and for all the way to solving real-life problems using {code}. When he is not coding or online, he enjoys making music, and performing musical instruments.
-
+- **Bio:** _
 
 ### Developer 2
 - **Name:** Amanuael Kebede
@@ -53,9 +51,11 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** A Meticulous Fullstack developer, in love with building & delivering clockwork level solutions A.S.A.P. ❤️ Svelte and TS .
 
 ### Developer 4
-- **Name:** Tamirat K.
-- **GitHub:** [Tamirat](https://github.com/kika1s1)
-- **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
+- **Name:** Kibreab Teshome
+- **GitHub:** [kibreab teshome](https://github.com/kibreab_kb_kb)
+- **Website:**
+- **Bio:**  I'm  a React developer starting backend with Django
+
 
 <!-- ### Developer 2
 - **Name:** Emily Davis
@@ -63,12 +63,6 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** Brief description or specialties in JavaScript development. -->
 
 <!-- Add more JavaScript developers as needed -->
-## .NET Developers
-
-### Developer 1
-- **Name:** Kerod Kibatu
-- **GitHub:** [kerodkibatu](https://github.com/kerodkibatu)
-- **Bio:** Meet Kerod, [Content Creator](https://youtube.com/@kerverse), Author of the [Chapa .NET SDK](https://github.com/kerodkibatu/Chapa.NET) and an Expert in Crossplatform App Development, I am constantly seeking out new challenges to overcome and continuously improving my skills. In addition to my love for Technology, I also enjoy AI/ML, Robotics, Creative Coding.
 
 ## Java Developers
 <!-- 
@@ -134,10 +128,4 @@ A list of CodeNight Telegram Group Developer
 - **Website:** https://DagmawiBabi.com
 - **Social Media:** https://t.me/dagmawi_babi
 - **Bio:** Dagmawi Babi is a fullstack developer and devops engineer, who can also do flutter.
-
-### Developer 2
-- **Name:** Dawit Beyene
-- **GitHub:** [Dawit Beyene](https://github.com/daveragos)
-- **Social Media:** https://t.me/ragoose_dumps
-- **Bio:** just a flutter dev
 
