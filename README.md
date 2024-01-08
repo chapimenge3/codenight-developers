@@ -67,6 +67,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [Tamirat](https://github.com/kika1s1)
 - **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
 
+## Developer 5
+- **Name:** Aman Negussie (Manny)
+- **GitHub:** [MannyNe](https://github.com/MannyNe)
+- **Bio:** A Backend Heavy Fullstack Web and App developer, with a background in DevSecOps, powered by coffee. TS is love, TS is life. <3 :))
+
 <!-- ### Developer 2
 - **Name:** Emily Davis
 - **GitHub:** [emilydavis](https://github.com/emilydavis)
