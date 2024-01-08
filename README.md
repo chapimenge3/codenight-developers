@@ -9,6 +9,7 @@ A list of CodeNight Telegram Group Developer
 - [C++ Developers](#c-developers)
 - [Ruby Developers](#ruby-developers)
 - [Go Developers](#go-developers)
+- [.NET Developers](#net-developers)
 
 ## Python Developers
 
@@ -39,6 +40,12 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** Brief description or specialties in JavaScript development. -->
 
 <!-- Add more JavaScript developers as needed -->
+## .NET Developers
+
+### Developer 1
+- **Name:** Kerod Kibatu
+- **GitHub:** [kerodkibatu](https://github.com/kerodkibatu)
+- **Bio:** Meet Kerod, [Content Creator](https://youtube.com/@kerverse), Author of the [Chapa .NET SDK](https://github.com/kerodkibatu/Chapa.NET) and an Expert in Crossplatform App Development, I am constantly seeking out new challenges to overcome and continuously improving my skills. In addition to my love for Technology, I also enjoy AI/ML, Robotics, Creative Coding.
 
 ## Java Developers
 <!-- 
