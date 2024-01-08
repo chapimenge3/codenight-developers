@@ -34,6 +34,10 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** Yaekob is a Python Backend developer. 2+ Experiance in Flask, FastAPI, Database Development,
 and Web Scrapping. Learning and Improving Daily.
 
+### Developer 4
+- **Name:** Dawit Getachew
+- **GitHub:** [Dawit Getachew](https://github.com/Dawit-Getachew)
+- **Bio:** I'm Backend Developer and DevOps Engineer.
 
 <!-- ### Developer 2
 - **Name:** Jane Smith
@@ -66,6 +70,16 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:**
 - **Bio:**  I'm  a React developer starting backend with Django
 
+
+### Developer 5
+- **Name:** Abel Ayalew
+- **GitHub:** [nabroleonx](https://github.com/nabroleonx)
+- **Bio:** (M|P)ERN stack dev with a knack for building creative solutions
+
+### Developer 6
+- **Name:** Aman Negussie (Manny)
+- **GitHub:** [MannyNe](https://github.com/MannyNe)
+- **Bio:** A Backend Heavy Fullstack Web and App developer, with a background in DevSecOps, powered by coffee. TS is love, TS is life. <3 :))
 
 <!-- ### Developer 2
 - **Name:** Emily Davis
@@ -118,17 +132,10 @@ and Web Scrapping. Learning and Improving Daily.
 
 ## Go Developers
 
-<!-- ### Developer 1
-- **Name:** Ethan Martinez
-- **GitHub:** [ethanmartinez](https://github.com/ethanmartinez)
-- **Bio:** Brief description or specialties in Go development.
-
-### Developer 2
-- **Name:** Mia Wilson
-- **GitHub:** [miawilson](https://github.com/miawilson)
-- **Bio:** Brief description or specialties in Go development. -->
-
-<!-- Add more Go developers as needed -->
+### Developer 1
+- **Name:** Dera Adugna.
+- **GitHub:** [Dru-Go](https://github.com/Dru-Go)
+- **Bio:** I don't always write bugs, but when I do, I make sure they're really hard to find!
 
 ## Flutter Developers
 
