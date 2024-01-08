@@ -35,6 +35,10 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** Yaekob is a Python Backend developer. 2+ Experiance in Flask, FastAPI, Database Development,
 and Web Scrapping. Learning and Improving Daily.
 
+### Developer 4
+- **Name:** Dawit Getachew
+- **GitHub:** [Dawit Getachew](https://github.com/Dawit-Getachew)
+- **Bio:** I'm Backend Developer and DevOps Engineer.
 
 <!-- ### Developer 2
 - **Name:** Jane Smith
