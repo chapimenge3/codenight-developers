@@ -39,6 +39,13 @@ A list of CodeNight Telegram Group Developer
 - **GitHub:** [Blogrammer](https://github.com/Manuel-heav)
 - **Bio:** I'm a MERN stack developer, and I love React. Sue me! I'm also currently freelancing and looking for remote opportunities. 
 
+### Developer 3
+- **Name:** Robel Mezemir ( Robi )
+- **GitHub:** [Robimez](https://github.com/robimez)
+- **Website:** https://robi.work
+- **Bio:** A Meticulous Fullstack developer, in love with building & delivering clockwork level solutions A.S.A.P. ❤️ Svelte and TS .
+
+
 <!-- ### Developer 2
 - **Name:** Emily Davis
 - **GitHub:** [emilydavis](https://github.com/emilydavis)
@@ -109,7 +116,3 @@ A list of CodeNight Telegram Group Developer
 - **GitHub:** [dagmawibabi](https://github.com/dagmawibabi)
 - **Bio:** Dagmawi Babi is a fullstack developer and devops engineer, who can also do flutter.
 
-### Developer 2
-- **Name:** Dawit Beyene
-- **GitHub:** [Dawit Beyene](https://github.com/daveragos)
-- **Bio:** 
