@@ -20,6 +20,11 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** Chapi is a Python backend developer and AWS aficionado. With 4+ years of experience in Serverless, Django, API development, and Automation Development. Quality, scalability, and serverless magic are my specialties. Let's create something awesome together! 😄✨.
 
 
+### Developer 2
+- **Name:** Naol Ketema
+- **GitHub:** [ ALPHACOD3RS ](https://github.com/ALPHACOD3RS)
+- **Bio:** Python backend and android developer :)
+
 <!-- ### Developer 2
 - **Name:** Jane Smith
 - **GitHub:** [janesmith](https://github.com/janesmith)
