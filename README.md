@@ -42,7 +42,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [kibreab teshome](https://github.com/kibreab-kb-kb)
 - **Website:**
 - **Bio:**  I'm  a React developer starting backend with Django
-
+### Developer 6
+- **Name:** Abel Wendmu
+- **GitHub:** [Abel Wendmu](https://github.com/legend123213)
+- **Website:** 
+- **Bio:** Abel is a Python backend developer. Also Student in ASTU with some Experiance in Django and python telegram bot😉.
+- 
 <!-- ### Developer 2
 - **Name:** Jane Smith
 - **GitHub:** [janesmith](https://github.com/janesmith)
