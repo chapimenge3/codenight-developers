@@ -135,3 +135,9 @@ A list of CodeNight Telegram Group Developer
 - **Social Media:** https://t.me/dagmawi_babi
 - **Bio:** Dagmawi Babi is a fullstack developer and devops engineer, who can also do flutter.
 
+### Developer 2
+- **Name:** Dawit Beyene
+- **GitHub:** [Dawit Beyene](https://github.com/daveragos)
+- **Social Media:** https://t.me/ragoose_dumps
+- **Bio:** just a flutter dev
+
