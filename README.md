@@ -1,4 +1,4 @@
-![image](https://github.com/Manuel-heav/codenight-developers/assets/66178225/d7aab8b4-cb62-4dbf-b72b-fe16c78775ab)# codenight-developers
+# codenight-developers
 A list of CodeNight Telegram Group Developer
 
 ## Table of Contents
