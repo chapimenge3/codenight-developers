@@ -43,6 +43,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:**
 - **Bio:**  I'm  a React developer starting backend with Django
 
+### Developer 6
+- **Name:** Tsehayneh Getaneh
+- **GitHub:** [Tsehayneh Getaneh](https://github.com/TsehaynehGetaneh)
+- **Website:**
+- **Bio:**  Python backend and React Developer.
+
 <!-- ### Developer 2
 - **Name:** Jane Smith
 - **GitHub:** [janesmith](https://github.com/janesmith)
