@@ -37,6 +37,10 @@ A list of CodeNight Telegram Group Developer
 - **Name:** Emily Davis
 - **GitHub:** [emilydavis](https://github.com/emilydavis)
 - **Bio:** Brief description or specialties in JavaScript development. -->
+### Developer 3
+- **Name:** Tamirat K.
+- **GitHub:** [Tamirat](https://github.com/kika1s1)
+- **Bio:** _
 
 <!-- Add more JavaScript developers as needed -->
 
