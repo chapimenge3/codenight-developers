@@ -10,7 +10,7 @@ A list of CodeNight Telegram Group Developer
 - [Ruby Developers](#ruby-developers)
 - [Go Developers](#go-developers)
 - [Flutter Developers](#flutter-developers)
-
+- [PHP Developers](#php-developers)
 ## Python Developers
 
 ### Developer 1
@@ -24,6 +24,16 @@ A list of CodeNight Telegram Group Developer
 - **Name:** Naol Ketema
 - **GitHub:** [ ALPHACOD3RS ](https://github.com/ALPHACOD3RS)
 - **Bio:** Python backend and android developer :)
+
+
+
+### Developer 3
+- **Name:** Yaekob Demisse
+- **GitHub:** [Jamescog](https://github.com/Jamescog)
+- **Website:** Underconstruction
+- **Bio:** Yaekob is a Python Backend developer. 2+ Experiance in Flask, FastAPI, Database Development,
+and Web Scrapping. Learning and Improving Daily.
+
 
 <!-- ### Developer 2
 - **Name:** Jane Smith
@@ -128,4 +138,18 @@ A list of CodeNight Telegram Group Developer
 - **Website:** https://DagmawiBabi.com
 - **Social Media:** https://t.me/dagmawi_babi
 - **Bio:** Dagmawi Babi is a fullstack developer and devops engineer, who can also do flutter.
+
+
+## PHP Developers
+
+### Developer 1
+- **Name:** Abdurahman Abdela
+- **GitHub:** [Abdurahman Abdela](https://github.com/abdurahmanab)
+- **Bio:** Abdurahman Abdela is a software engineering studnet at ASTU  that have experience in php and laravel.
+
+### Developer 2
+- **Name:** Dawit Beyene
+- **GitHub:** [Dawit Beyene](https://github.com/daveragos)
+- **Social Media:** https://t.me/ragoose_dumps
+- **Bio:** just a flutter dev
 
