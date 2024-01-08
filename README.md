@@ -39,7 +39,7 @@ and Web Scrapping. Learning and Improving Daily.
 
 ### Developer 5
 - **Name:** Kibreab Teshome
-- **GitHub:** [kibreab teshome](https://github.com/kibreab_kb_kb)
+- **GitHub:** [kibreab teshome](https://github.com/kibreab-kb-kb)
 - **Website:**
 - **Bio:**  I'm  a React developer starting backend with Django
 
