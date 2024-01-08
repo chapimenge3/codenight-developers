@@ -26,6 +26,16 @@ A list of CodeNight Telegram Group Developer
 - **GitHub:** [ ALPHACOD3RS ](https://github.com/ALPHACOD3RS)
 - **Bio:** Python backend and android developer :)
 
+
+
+### Developer 3
+- **Name:** Yaekob Demisse
+- **GitHub:** [Jamescog](https://github.com/Jamescog)
+- **Website:** Underconstruction
+- **Bio:** Yaekob is a Python Backend developer. 2+ Experiance in Flask, FastAPI, Database Development,
+and Web Scrapping. Learning and Improving Daily.
+
+
 <!-- ### Developer 2
 - **Name:** Jane Smith
 - **GitHub:** [janesmith](https://github.com/janesmith)
