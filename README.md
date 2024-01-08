@@ -9,6 +9,7 @@ A list of CodeNight Telegram Group Developer
 - [C++ Developers](#c-developers)
 - [Ruby Developers](#ruby-developers)
 - [Go Developers](#go-developers)
+- [Flutter Developers](#flutter-developers)
 
 ## Python Developers
 
@@ -96,3 +97,9 @@ A list of CodeNight Telegram Group Developer
 
 <!-- Add more Go developers as needed -->
 
+## Flutter Developers
+
+### Developer 1
+- **Name:** Dawit Beyene
+- **GitHub:** [Dawit Beyene](https://github.com/daveragos)
+- **Bio:** 
