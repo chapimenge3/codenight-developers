@@ -32,15 +32,17 @@ A list of CodeNight Telegram Group Developer
 - **Name:** Bereket Engida
 - **GitHub:** [Bekacru](https://github.com/Bekacru)
 - **Bio:** _
-### Developer 2
+
+
+<!-- ### Developer 2
+- **Name:** Emily Davis
+- **GitHub:** [emilydavis](https://github.com/emilydavis)
+- **Bio:** Brief description or specialties in JavaScript development. -->
+### Developer 3
 - **Name:** Tamirat K.
 - **GitHub:** [Tamirat](https://github.com/kika1s1)
 - **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
 
-<!-- ### Developer 3
-- **Name:** Emily Davis
-- **GitHub:** [emilydavis](https://github.com/emilydavis)
-- **Bio:** Brief description or specialties in JavaScript development. -->
 
 <!-- Add more JavaScript developers as needed -->
 
