@@ -37,6 +37,19 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** Yaekob is a Python Backend developer. 2+ Experiance in Flask, FastAPI, Database Development,
   and Web Scrapping. Learning and Improving Daily.
 
+### Developer 4
+
+- **Name:** Dawit Getachew
+- **GitHub:** [Dawit Getachew](https://github.com/Dawit-Getachew)
+- **Bio:** I'm Backend Developer and DevOps Engineer.
+
+### Developer 5
+
+- **Name:** Kibreab Teshome
+- **GitHub:** [kibreab teshome](https://github.com/kibreab-kb-kb)
+- **Website:**
+- **Bio:** I'm a React developer starting backend with Django
+
 <!-- ### Developer 2
 - **Name:** Jane Smith
 - **GitHub:** [janesmith](https://github.com/janesmith)
@@ -73,15 +86,21 @@ A list of CodeNight Telegram Group Developer
 
 ### Developer 5
 
+- **Name:** Haileiyesus.
+- **GitHub:** [Haileiyesus](https://github.com/haileiyesus-29)
+- **Bio:** A sfullstack javascipt and Typescript developer. currently open for jobs.
+
+### Developer 6
+
 - **Name:** Abel Ayalew
 - **GitHub:** [nabroleonx](https://github.com/nabroleonx)
 - **Bio:** (M|P)ERN stack dev with a knack for building creative solutions
 
-### Developer 6
+### Developer 7
 
-- **Name:** Bilal Abdelkadir
-- **GitHub:** [Bilal](https://github.com/bilalabdelkadir)
-- **Bio:** A backend heavy full stack developer i have worked with enterprise level web app with tools like Reactjs(AntDesign), Nodejs(Expresjs,Nestjs), Postgres, Redis and i am currently learning Golang, RabbitMQ , grpc and AWS
+- **Name:** Aman Negussie (Manny)
+- **GitHub:** [MannyNe](https://github.com/MannyNe)
+- **Bio:** A Backend Heavy Fullstack Web and App developer, with a background in DevSecOps, powered by coffee. TS is love, TS is life. <3 :))
 
 <!-- ### Developer 2
 - **Name:** Emily Davis
@@ -144,6 +163,7 @@ A list of CodeNight Telegram Group Developer
 ## Go Developers
 
 ### Developer 1
+
 - **Name:** Dera Adugna.
 - **GitHub:** [Dru-Go](https://github.com/Dru-Go)
 - **Bio:** I don't always write bugs, but when I do, I make sure they're really hard to find!
