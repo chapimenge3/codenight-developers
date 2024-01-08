@@ -9,6 +9,7 @@ A list of CodeNight Telegram Group Developer
 - [C++ Developers](#c-developers)
 - [Ruby Developers](#ruby-developers)
 - [Go Developers](#go-developers)
+- [Flutter Developers](#flutter-developers)
 
 ## Python Developers
 
@@ -95,4 +96,11 @@ A list of CodeNight Telegram Group Developer
 - **Bio:** Brief description or specialties in Go development. -->
 
 <!-- Add more Go developers as needed -->
+
+## Flutter Developers
+
+### Developer 1
+- **Name:** Dagmawi Babi
+- **GitHub:** [dagmawibabi](https://github.com/dagmawibabi)
+- **Bio:** Dagmawi Babi is a fullstack developer and devops engineer, who can also do flutter.
 
