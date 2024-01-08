@@ -129,17 +129,10 @@ and Web Scrapping. Learning and Improving Daily.
 
 ## Go Developers
 
-<!-- ### Developer 1
-- **Name:** Ethan Martinez
-- **GitHub:** [ethanmartinez](https://github.com/ethanmartinez)
-- **Bio:** Brief description or specialties in Go development.
-
-### Developer 2
-- **Name:** Mia Wilson
-- **GitHub:** [miawilson](https://github.com/miawilson)
-- **Bio:** Brief description or specialties in Go development. -->
-
-<!-- Add more Go developers as needed -->
+### Developer 1
+- **Name:** Dera Adugna.
+- **GitHub:** [Dru-Go](https://github.com/Dru-Go)
+- **Bio:** I don't always write bugs, but when I do, I make sure they're really hard to find!
 
 ## Flutter Developers
 
