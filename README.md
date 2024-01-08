@@ -11,7 +11,7 @@ A list of CodeNight Telegram Group Developer
 - [Ruby Developers](#ruby-developers)
 - [Go Developers](#go-developers)
 - [Flutter Developers](#flutter-developers)
-
+- [PHP Developers](#php-developers)
 ## Python Developers
 
 ### Developer 1
@@ -144,6 +144,13 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:** https://DagmawiBabi.com
 - **Social Media:** https://t.me/dagmawi_babi
 - **Bio:** Dagmawi Babi is a fullstack developer and devops engineer, who can also do flutter.
+
+## PHP Developers
+
+### Developer 1
+- **Name:** Abdurahman Abdela
+- **GitHub:** [Abdurahman Abdela](https://github.com/abdurahmanab)
+- **Bio:** Abdurahman Abdela is a software engineering studnet at ASTU  that have experience in php and laravel.
 
 ### Developer 2
 - **Name:** Dawit Beyene
