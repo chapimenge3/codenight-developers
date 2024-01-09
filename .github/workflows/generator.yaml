@@ -30,9 +30,12 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "github-action@codenight.et"
           git checkout
-          git add README.md
           # make a commit with the same commit message as the previous commit
-          git commit -m "${{ github.event.head_commit.message }}"
-          echo "Pushing to main"
-          git push origin main
-          echo "Successfully pushed to main
+          git commit -a -m "${{ github.event.head_commit.message }}"
+        
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+  
