@@ -147,6 +147,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [Samuel Zewde](https://github.com/samicsc0/)
 - **Bio:** A junior full-stack developer who is currently exploring and learning technologies, utilizing React, Express, and MySQL for building projects. On the side, I develop websites for brands. Also, I also find enjoyment in Java.
 
+### Developer 15
+- **Name:** Ayalkbet Tesfahun(ABBII)
+- **GitHub:** [Tesfaa abi](https://github.com/Atesfahun)
+- **Bio:** A software developer primarily focuses on building visually appealing user interfaces and functional components using JavaScript.
+
 
 ## .NET
 
