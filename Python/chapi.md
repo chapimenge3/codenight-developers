@@ -1,0 +1,4 @@
+- **Name:** Temkin Mengistu
+- **GitHub:** [Chapi Menge](https://github.com/chapimenge3)
+- **Website:** https://chapimenge.com
+- **Bio:** Chapi is a Python backend developer and AWS aficionado. With 4+ years of experience in Serverless, Django, API development, and Automation Development. Quality, scalability, and serverless magic are my specialties. Let's create something awesome together! 😄✨.

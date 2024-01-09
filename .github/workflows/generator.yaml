@@ -1,0 +1,38 @@
+name: Generate on Pull Request
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+
+      - name: Run generators.py
+        run: python generators.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "github-action@codenight.et"
+          git checkout
+          git add README.md
+          # make a commit with the same commit message as the previous commit
+          git commit -m "${{ github.event.head_commit.message }}"
+          echo "Pushing to main"
+          git push origin main
+          echo "Successfully pushed to main

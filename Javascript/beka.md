@@ -1,0 +1,3 @@
+- **Name:** Bereket Engida
+- **GitHub:** [Bekacru](https://github.com/Bekacru)
+- **Bio:** Bereket Engida is a full stack developer based on Addis Ababa. With a passion for building digital services/things he likes to make. He has a knack for all sort of things from coming up with unique ideas, to launching products, planning and designing and for all the way to solving real-life problems using {code}. When he is not coding or online, he enjoys making music, and performing musical instruments.
