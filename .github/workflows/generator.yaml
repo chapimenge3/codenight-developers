@@ -1,0 +1,36 @@
+name: Generate on Pull Request
+
+on:
+  push:
+    branches:
+      - main
+
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    if: github.actor != 'dependabot[bot]' && github.actor != 'github-actions[bot]'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Setup Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.10'
+
+      - name: Run generators.py
+        run: python generators.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global --add --bool push.autoSetupRemote true
+          echo "Committing changes and pushing to ${{ github.ref_name }}"
+          git diff --quiet && git diff --staged --quiet || git commit -am "${{ github.ref_name }}: Update generated files" && git push -u origin ${{ github.ref_name }} && echo "Pushed changes to ${{ github.ref_name }}"
+          echo "Done"

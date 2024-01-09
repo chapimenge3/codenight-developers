@@ -1,0 +1,3 @@
+- **Name:** Naol Ketema
+- **GitHub:** [ ALPHACOD3RS ](https://github.com/ALPHACOD3RS)
+- **Bio:** Python backend and android developer :)

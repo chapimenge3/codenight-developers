@@ -1,0 +1,3 @@
+- **Name:** Amanuael Kebede
+- **GitHub:** [Blogrammer](https://github.com/Manuel-heav)
+- **Bio:** I'm a MERN stack developer, and I love React. Sue me! I'm also currently freelancing and looking for remote opportunities. 

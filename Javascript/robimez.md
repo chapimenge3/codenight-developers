@@ -1,0 +1,4 @@
+- **Name:** Robel Mezemir ( Robi )
+- **GitHub:** [Robimez](https://github.com/robimez)
+- **Website:** https://robi.work
+- **Bio:** A Meticulous Fullstack developer, in love with building & delivering clockwork level solutions A.S.A.P. ❤️ Svelte and TS .
