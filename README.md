@@ -142,6 +142,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:** https://bisry.thearc.tech
 - **Bio:** A Software Engineer who finds joy in witnessing the tangible impact of his work. With 3+ years of experience and specialization in frontend development by NextJS, I excel in design and development of scalable and quility products. *Building the new world, one line at a time.*
 
+### Developer 14
+- **Name:** Samuel Zewde
+- **GitHub:** [Samuel Zewde](https://github.com/samicsc0/)
+- **Bio:** A junior full-stack developer who is currently exploring and learning technologies, utilizing React, Express, and MySQL for building projects. On the side, I develop websites for brands. Also, I also find enjoyment in Java.
+
 
 ## .NET
 
