@@ -43,6 +43,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:**
 - **Bio:**  I'm  a React developer starting backend with Django
 
+### Developer 5
+- **Name:** Eyasu Hailegebriel
+- **GitHub:** [IyasuHa](https://github.com/IyasuH)
+- **Bio:**  Backend developer, with experience in Django, Flask, Kivy and Flutter
+
 <!-- ### Developer 2
 - **Name:** Jane Smith
 - **GitHub:** [janesmith](https://github.com/janesmith)
