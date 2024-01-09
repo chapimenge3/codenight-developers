@@ -130,6 +130,13 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [AnexDev](https://github.com/anexdev1)
 - **Bio:** A creative Fullstack developer mainly focusing on building beautiful UI.
 
+### Developer 13
+- **Name:** Bisrat Kebere 
+- **GitHub:** [BisRyy](https://github.com/bisryy)
+- **LinkedIn:** [BisRy](https://linkedin.com/in/bisry/)
+- **Website:** https://bisry.thearc.tech
+- **Bio:** A Software Engineer who finds joy in witnessing the tangible impact of his work. With 3+ years of experience and specialization in frontend development by NextJS, I excel in design and development of scalable and quility products. *Building the new world, one line at a time.*
+
 
 ## .NET
 
