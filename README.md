@@ -152,6 +152,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [Tesfaa abi](https://github.com/Atesfahun)
 - **Bio:** A software developer primarily focuses on building visually appealing user interfaces and functional components using JavaScript.
 
+### Developer 16
+- **Name:** Ruth Abiti
+- **GitHub:** [dot-ruth](https://github.com/dot-ruth)
+- **Website:** https://dotsblog.netlify.app/ (just deployed this week, much more content to come)
+- **Bio:** An Enthusiastic Fullstack developer .
+
 
 ## .NET
 
