@@ -1,10 +1,10 @@
 name: Generate on Pull Request
 
 on:
-  pull_request:
-    types:
-      - opened
-      - synchronize
+  push:
+    branches:
+      - main
+
 
 permissions:
   contents: write
@@ -13,7 +13,7 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
+    if: github.actor != 'dependabot[bot]' && github.actor != 'github-actions[bot]'
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -28,12 +28,9 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "github-action@codenight.et"
-          git checkout -b ${{ github.head_ref }}
-          git add README.md
-          echo "Generated files for ${{ github.event.pull_request.title }}"
-          git commit -m "Generated files for ${{ github.event.pull_request.title }}"
-          echo "Pushing to ${{ github.event.pull_request.head.ref }}"
-          git push origin HEAD:${{ github.event.pull_request.head.ref }}
-          echo "Successfully pushed to ${{ github.event.pull_request.head.ref }}"
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global --add --bool push.autoSetupRemote true
+          echo "Committing changes and pushing to ${{ github.ref_name }}"
+          git diff --quiet && git diff --staged --quiet || git commit -am "${{ github.ref_name }}: Update generated files" && git push -u origin ${{ github.ref_name }} && echo "Pushed changes to ${{ github.ref_name }}"
+          echo "Done"

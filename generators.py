@@ -6,8 +6,6 @@ import json
 from string import Template
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-print(f'BASE_DIR: {BASE_DIR}')
-print('os pwd: ', os.getcwd())
 
 with open(os.path.join(BASE_DIR, 'README_TEMPLATE.md'), 'r') as f:
     README_TEMPLATE = Template(f.read())
@@ -55,6 +53,7 @@ def get_new_members(category: str):
                         content = f.read()
                         new_members.append(content.strip())
                     new_members_name.append(member)
+                    print(f'New member found: {member} in {category}')
         
         if new_members_name:
             # if there are new members, add them to members.json
@@ -91,7 +90,7 @@ def generate_readme():
         developers_text += '\n'
     
     readme = README_TEMPLATE.substitute(categories=categories_text, developers=developers_text.strip())
-    with open(os.path.join(BASE_DIR, 'README-test.md'), 'w') as f:
+    with open(os.path.join(BASE_DIR, 'README.md'), 'w') as f:
         f.write(readme)
 
 if __name__ == '__main__':
