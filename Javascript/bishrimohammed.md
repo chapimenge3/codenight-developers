@@ -1,4 +1,4 @@
 - **Name:** Bishri Mohammed
 - **GitHub:** [bishrimohammed](https://github.com/bishrimohammed)
-- **Website:** https://bishri.vercel.com/
+- **Website:** https://bishri.vercel.app/
 - **Bio:** Bishri Mohammed is a full stack developer based on Addis Ababa. who loves mern stack.
