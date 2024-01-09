@@ -125,6 +125,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [Henok](https://github.com/henacodes)
 - **Bio:** A passion javascript developer
 
+### Developer 12
+- **Name:** Anwar Nasir
+- **GitHub:** [AnexDev](https://github.com/anexdev1)
+- **Bio:** A creative Fullstack developer mainly focusing on building beautiful UI.
+
 
 ## .NET
 
