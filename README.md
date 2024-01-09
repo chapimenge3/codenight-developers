@@ -52,6 +52,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:** https://milkias17.github.io/portfolio/
 - **Bio:** A skilled developer proficient in both ends of the stach with tech like nextjs, sveltekit, django, flask, fastapi. Also tons of experience building complex telegram bots. While still a university student, has 1+year of professional experience and much more in side projects. Let's collaborate and bring your ideas to life! 😄🚀
 
+### Developer 8
+- **Name:** Abel Wendmu
+- **GitHub:** [Abel Wendmu](https://github.com/legend123213)
+- **Website:**
+- **Bio:**  I'm  a software engineering student at ASTU.and also Python and Backend developer with Django.
+
 
 ## Javascript
 
