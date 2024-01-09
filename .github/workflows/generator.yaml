@@ -27,11 +27,12 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "github-action@codenight.et"
-          git checkout
-          # make a commit with the same commit message as the previous commit
+          git config --local user.name "GitHub Action"
+          git config --local user.email "github-action@codenight.et"
+          git checkout -b ${{ github.ref }}
+          echo "Committing changes..."
           git commit -a -m "${{ github.event.head_commit.message }}"
+          echo "Successfully committed changes."
         
       - name: Push changes
         uses: ad-m/github-push-action@master
