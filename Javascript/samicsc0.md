@@ -1,0 +1,3 @@
+- **Name:** Samuel Zewde
+- **GitHub** [Samuel Zewde](https://github.com/samicsc0/)
+- **Bio:** A junior full-stack developer who is currently exploring and learning technologies, utilizing React, Express, and MySQL for building projects. On the side, I develop websites for brands. Also, I also find enjoyment in Java.
