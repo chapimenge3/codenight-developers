@@ -31,7 +31,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b ${{ github.ref }}
           echo "Committing changes and pushing to ${{ github.ref }}"
-          git diff --quiet && git diff --staged --quiet || git commit -am "${{ github.event.head_commit.message }}" && git push origin ${{ github.ref }}
+          git diff --quiet && git diff --staged --quiet || git commit -am "${{ github.event.head_commit.message }}" && git push
           echo "Pushed changes to ${{ github.ref }}"
           
       # - name: Push changes
