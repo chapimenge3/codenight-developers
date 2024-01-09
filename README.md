@@ -141,6 +141,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **Social Media:** https://t.me/ragoose_dumps
 - **Bio:** just a flutter dev
 
+### Developer 3
+- **Name:** Betsegaw Gizaw
+- **GitHub:** [Betsegaw Gizaw](https://github.com/betsegaw1332)
+- **Social Media:** https://t.me/b3753
+- **Bio:** Flutter developer
+
 
 ## PHP
 
