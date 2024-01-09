@@ -1,0 +1,4 @@
+- **Name:** Abdiza Dev
+- **GitHub:** [AbdizaDev](https://github.com/developed-by-abdiza)
+- **Website:** http://abdiza.tech
+- **Bio:** selam 👋,
