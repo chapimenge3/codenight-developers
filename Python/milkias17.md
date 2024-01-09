@@ -1,0 +1,4 @@
+- **Name:** Milkias Yeheyis
+- **GitHub:** [Milkias Yeheyis](https://github.com/milkias17)
+- **Website:** https://milkias17.github.io/portfolio/
+- **Bio:** A skilled developer proficient in both ends of the stach with tech like nextjs, sveltekit, django, flask, fastapi. Also tons of experience building complex telegram bots. While still a university student, has 1+year of professional experience and much more in side projects. Let's collaborate and bring your ideas to life! 😄🚀
