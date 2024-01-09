@@ -34,7 +34,7 @@ This Code of Conduct applies within all project spaces and extends to public spa
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [contact@example.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [Telegram](https://t.me/codenight). All complaints will be reviewed and investigated promptly and fairly.
 
 Project maintainers are obligated to maintain confidentiality concerning the reporter of an incident.
 

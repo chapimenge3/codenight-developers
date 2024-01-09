@@ -18,7 +18,7 @@ To contribute changes to the project:
 
 1. Fork the repository to your GitHub account.
 2. Create a new branch (`git checkout -b feature/add-new-feature`).
-3. Add your details in the appropriate folder and name the file as `your_name.md`.
+3. Add your details in the appropriate folder and name the file as `your_github_username.md`.
 4. Make sure to follow the same format as other files and don't add a lot of details.
 5. Commit your changes (`git commit -am 'Name added to Category X'`).
 6. Push to your branch (`git push origin feature/add-new-feature`).
