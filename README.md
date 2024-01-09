@@ -158,6 +158,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:** https://dotsblog.netlify.app/ (just deployed this week, much more content to come)
 - **Bio:** An Enthusiastic Fullstack developer .
 
+### Developer 17
+- **Name:** Bishri Mohammed
+- **GitHub:** [bishrimohammed](https://github.com/bishrimohammed)
+- **Website:** https://bishri.vercel.app/
+- **Bio:** Bishri Mohammed is a full stack developer based on Addis Ababa. who loves mern stack.
+
 
 ## .NET
 
