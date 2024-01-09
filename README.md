@@ -147,6 +147,5 @@ A list of CodeNight Telegram Group Developer
 ### Developer 1
 - **Name:** Behailu Getachew
 - **Github:** [behailugetachew](https://github.com/bayainnovation)
-- **Email:** behailu.getachew@gmail.com
 - **Social Media:** https://t.me/bayazgonder
 - **Bio:** Behailu Getachew is a java (native) developer with no-code app builder and design UI/UX 
