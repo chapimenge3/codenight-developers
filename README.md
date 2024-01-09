@@ -64,6 +64,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:** https://kaleb-abiy.netlify.app
 - **Bio:** Backend Web developer mostly working with Python(Django) Kaleb is also capable of working with frontend technologies like React and Angular.
 
+### Developer 10
+**Name:** Abdulwahid Ali
+**GitHub:** https://github.com/awahidanon
+**Bio:** Python backend developer, Django, API and bot development.
+
 
 ## Javascript
 
