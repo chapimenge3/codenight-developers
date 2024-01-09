@@ -1,0 +1,3 @@
+- **Name:** Kerod Kibatu
+- **GitHub:** [kerodkibatu](https://github.com/kerodkibatu)
+- **Bio:** Meet Kerod, [Content Creator](https://youtube.com/@kerverse), Author of the [Chapa .NET SDK](https://github.com/kerodkibatu/Chapa.NET) and an Expert in Crossplatform App Development, I am constantly seeking out new challenges to overcome and continuously improving my skills. In addition to my love for Technology, I also enjoy AI/ML, Robotics, Creative Coding.

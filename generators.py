@@ -23,8 +23,12 @@ def get_members(category: str):
     Get members from Base dir/category/members.json
     """
     try:
-        with open(os.path.join(BASE_DIR, category, 'members.json'), 'r') as f:
-            members_name = json.load(f)
+        if os.path.exists(os.path.join(BASE_DIR, category, 'members.json')):
+            with open(os.path.join(BASE_DIR, category, 'members.json'), 'r') as f:
+                text = f.read()
+                members_name = json.loads(text) if text else []
+        else:
+            members_name = []
         members = []
         members_name = sorted(members_name)
         for member in members_name:
@@ -42,8 +46,12 @@ def get_new_members(category: str):
     Get new members if the name in the base dir/category/member_name.md is not in the members.json
     """
     try:
-        with open(os.path.join(BASE_DIR, category, 'members.json'), 'r') as f:
-            old_members_name = json.load(f)
+        if os.path.exists(os.path.join(BASE_DIR, category, 'members.json')):
+            with open(os.path.join(BASE_DIR, category, 'members.json'), 'r') as f:
+                text = f.read()
+                old_members_name = json.loads(text) if text else []
+        else:
+            old_members_name = []
         new_members = []
         new_members_name = []
         for member in os.listdir(os.path.join(BASE_DIR, category)):
@@ -57,8 +65,12 @@ def get_new_members(category: str):
         
         if new_members_name:
             # if there are new members, add them to members.json
-            with open(os.path.join(BASE_DIR, category, 'members.json'), 'r') as f:
-                members_name = json.load(f)
+            if os.path.exists(os.path.join(BASE_DIR, category, 'members.json')):
+                with open(os.path.join(BASE_DIR, category, 'members.json'), 'r') as f:
+                    text = f.read()
+                    members_name = json.loads(text) if text else []
+            else:
+                members_name = []
             members_name.extend(new_members_name)
             with open(os.path.join(BASE_DIR, category, 'members.json'), 'w') as f:
                 json.dump(members_name, f, indent=4)

@@ -1,0 +1,3 @@
+- **Name:** Tamirat K.
+- **GitHub:** [Tamirat](https://github.com/kika1s1)
+- **Bio:** A skilled Mern stack Web Developer with more than a year of experience in building web applications
