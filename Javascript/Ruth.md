@@ -1,0 +1,4 @@
+- **Name:** Ruth Abiti
+- **GitHub:** [dot-ruth](https://github.com/dot-ruth)
+- **Website:** https://dotsblog.netlify.app/ (just deployed this week, much more content to come)
+- **Bio:** An Enthusiastic Fullstack developer .
