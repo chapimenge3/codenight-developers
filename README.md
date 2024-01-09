@@ -58,6 +58,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:**
 - **Bio:**  I'm  a software engineering student at ASTU.and also Python and Backend developer with Django.
 
+### Developer 9
+- **Name:** Kaleb Abiy
+- **GitHub:** [Kaleb Abiy](https://github.com/Kaleb-Abiy)
+- **Website:** https://kaleb-abiy.netlify.app
+- **Bio:** Backend Web developer mostly working with Python(Django) Kaleb is also capable of working with frontend technologies like React and Angular.
+
 
 ## Javascript
 
