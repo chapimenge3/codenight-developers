@@ -43,6 +43,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:**
 - **Bio:**  I'm  a React developer starting backend with Django
 
+### Developer 6
+- **Name:** Biniyam Seid
+- **GitHub:** [Biniyamseid](https://github.com/Biniyamseid)
+- **Bio:** Biniyam is an experienced Python developer with a strong proficiency in Flask and Django frameworks. Passionate about problem-solving, he has accumulated 3 years of hands-on expertise in Python development. Besides Python, Biniyam enjoys developing mobile applications with Flutter and has solid experience with JavaScript. Let's collaborate and turn ideas into reality! 💡📱
+
 <!-- ### Developer 2
 - **Name:** Jane Smith
 - **GitHub:** [janesmith](https://github.com/janesmith)
