@@ -7,7 +7,7 @@ from string import Template
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-with open(os.path.join(BASE_DIR, 'README_TEMPLATE.md'), 'r') as f:
+with open(os.path.join(BASE_DIR, 'README_TEMPLATE.md'), 'r',  encoding='utf_8') as f:
     README_TEMPLATE = Template(f.read())
 
 def get_category():
@@ -49,7 +49,7 @@ def get_new_members(category: str):
         for member in os.listdir(os.path.join(BASE_DIR, category)):
             if member.endswith('.md'):
                 if member not in old_members_name:
-                    with open(os.path.join(BASE_DIR, category, member), 'r') as f:
+                    with open(os.path.join(BASE_DIR, category, member), 'r',  encoding='utf_8') as f:
                         content = f.read()
                         new_members.append(content.strip())
                     new_members_name.append(member)
@@ -90,7 +90,7 @@ def generate_readme():
         developers_text += '\n'
     
     readme = README_TEMPLATE.substitute(categories=categories_text, developers=developers_text.strip())
-    with open(os.path.join(BASE_DIR, 'README.md'), 'w') as f:
+    with open(os.path.join(BASE_DIR, 'README.md'), 'w', encoding='utf_8') as f:
         f.write(readme)
 
 if __name__ == '__main__':
