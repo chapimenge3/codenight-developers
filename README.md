@@ -120,6 +120,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [mekbibDev](https://github.com/mekbibDev)
 - **Bio:** I am a Fullstack JS Developer that would like to learn more
 
+### Developer 11
+- **Name:** Henok Ayenew
+- **GitHub:** [Henok](https://github.com/henacodes)
+- **Bio:** A passion javascript developer
+
 
 ## .NET
 
