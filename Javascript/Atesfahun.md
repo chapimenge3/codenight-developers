@@ -1,0 +1,3 @@
+- **Name:** Ayalkbet Tesfahun
+- **GitHub:** [Tesfaa abi](https://github.com/Atesfahun)
+- **Bio:** A software developer primarily focuses on building visually appealing user interfaces and functional components using JavaScript.
