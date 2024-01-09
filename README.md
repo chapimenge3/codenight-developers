@@ -115,6 +115,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:** https://drjseifu.vercel.app/
 - **Bio:** Full Stack Engineer skilled in JavaScript and TypeScript, specializing in React, AWS, and DevOps. Enthusiastic about software architecture.
 
+### Developer 10
+- **Name:** Mekbib Tarekegn
+- **GitHub:** [mekbibDev](https://github.com/mekbibDev)
+- **Bio:** I am a Fullstack JS Developer that would like to learn more
+
 
 ## .NET
 
