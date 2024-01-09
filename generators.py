@@ -30,7 +30,6 @@ def get_members(category: str):
         else:
             members_name = []
         members = []
-        members_name = sorted(members_name)
         for member in members_name:
             with open(os.path.join(BASE_DIR, category, f'{member}'), 'r') as f:
                 content = f.read()
@@ -95,7 +94,7 @@ def generate_readme():
     categories_text = ''
     developers_text = ''
     for category_name in category:
-        categories_text += f'- [{category_name}](#{category_name})\n'
+        categories_text += f'- [{category_name} Developer](#{category_name})\n'
         developers_text += f'## {category_name}\n\n'
         for count, member in enumerate(get_all_members(category_name)):
             developers_text += f'### Developer {count+1}\n{member}\n\n'
