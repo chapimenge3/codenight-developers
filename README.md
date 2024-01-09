@@ -88,6 +88,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [MannyNe](https://github.com/MannyNe)
 - **Bio:** A Backend Heavy Fullstack Web and App developer, with a background in DevSecOps, powered by coffee. TS is love, TS is life. <3 :))
 
+### Developer 8
+- **Name:** Harun Bekri.
+- **GitHub:** [Hari](https://github.com/hariyebk)
+- **Bio:**  👨‍💻 Next.js Developer | 🛡️ Cyber Security Enthusiast
+
 <!-- ### Developer 2
 - **Name:** Emily Davis
 - **GitHub:** [emilydavis](https://github.com/emilydavis)
