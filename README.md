@@ -64,6 +64,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:** https://kaleb-abiy.netlify.app
 - **Bio:** Backend Web developer mostly working with Python(Django) Kaleb is also capable of working with frontend technologies like React and Angular.
 
+### Developer 9
+- **Name:** Eyasu Hailegebriel
+- **GitHub:** [IyasuH](https://github.com/IyasuH)
+- **Bio:** Python developer experienced in backend web development (using Flask(3 years) and Django(1 year)), in mobile and application development using(Kivy), web scraping (Scrapy) and telegram bot development
+
 
 ## Javascript
 
