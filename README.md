@@ -58,6 +58,27 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:**
 - **Bio:**  I'm  a software engineering student at ASTU.and also Python and Backend developer with Django.
 
+### Developer 9
+- **Name:** Kaleb Abiy
+- **GitHub:** [Kaleb Abiy](https://github.com/Kaleb-Abiy)
+- **Website:** https://kaleb-abiy.netlify.app
+- **Bio:** Backend Web developer mostly working with Python(Django) Kaleb is also capable of working with frontend technologies like React and Angular.
+
+### Developer 10
+**Name:** Abdulwahid Ali
+**GitHub:** https://github.com/awahidanon
+**Bio:** Python backend developer, Django, API and bot development.
+
+### Developer 11
+**Name:** Abenezer Walelign
+**GitHub:** [Abthon](https://github.com/Abthon)
+**Bio:** Abthon is a experienced backend developer skilled in Python, particularly adept in utilizing Django, Django RestFramework, and Django RestFramework-simple-jwt. In addition to his expertise in Python, Abthon takes pleasure in crafting mobile apps using Flutter and possesses notable experience working with React.
+
+### Developer 12
+- **Name:** Ahmed Muhamed
+- **GitHub:** [D3mah](https://github.com/d3mah-24) 
+- **Bio:** I'm a Python backend and Odoo ERP developer.
+
 
 ## Javascript
 
@@ -103,6 +124,67 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:** http://abdiza.tech
 - **Bio:** selam 👋,
 
+### Developer 9
+- **Name:** Dereje Seifu
+- **GitHub:** [drjseifu1991](https://github.com/drjseifu1991)
+- **Website:** https://drjseifu.vercel.app/
+- **Bio:** Full Stack Engineer skilled in JavaScript and TypeScript, specializing in React, AWS, and DevOps. Enthusiastic about software architecture.
+
+### Developer 10
+- **Name:** Mekbib Tarekegn
+- **GitHub:** [mekbibDev](https://github.com/mekbibDev)
+- **Bio:** I am a Fullstack JS Developer that would like to learn more
+
+### Developer 11
+- **Name:** Henok Ayenew
+- **GitHub:** [Henok](https://github.com/henacodes)
+- **Bio:** A passion javascript developer
+
+### Developer 12
+- **Name:** Anwar Nasir
+- **GitHub:** [AnexDev](https://github.com/anexdev1)
+- **Bio:** A creative Fullstack developer mainly focusing on building beautiful UI.
+
+### Developer 13
+- **Name:** Bisrat Kebere 
+- **GitHub:** [BisRyy](https://github.com/bisryy)
+- **LinkedIn:** [BisRy](https://linkedin.com/in/bisry/)
+- **Website:** https://bisry.thearc.tech
+- **Bio:** A Software Engineer who finds joy in witnessing the tangible impact of his work. With 3+ years of experience and specialization in frontend development by NextJS, I excel in design and development of scalable and quality products. *Building the new world, one line at a time.*
+
+### Developer 14
+- **Name:** Samuel Zewde
+- **GitHub:** [Samuel Zewde](https://github.com/samicsc0/)
+- **Bio:** A junior full-stack developer who is currently exploring and learning technologies, utilizing React, Express, and MySQL for building projects. On the side, I develop websites for brands. Also, I also find enjoyment in Java.
+
+### Developer 15
+- **Name:** Ayalkbet Tesfahun(ABBII)
+- **GitHub:** [Tesfaa abi](https://github.com/Atesfahun)
+- **Bio:** A software developer primarily focuses on building visually appealing user interfaces and functional components using JavaScript.
+
+### Developer 16
+- **Name:** Ruth Abiti
+- **GitHub:** [dot-ruth](https://github.com/dot-ruth)
+- **Website:** https://dotsblog.netlify.app/ (just deployed this week, much more content to come)
+- **Bio:** An Enthusiastic Fullstack developer .
+
+### Developer 17
+- **Name:** Bishri Mohammed
+- **GitHub:** [bishrimohammed](https://github.com/bishrimohammed)
+- **Website:** https://bishri.vercel.app/
+- **Bio:** Bishri Mohammed is a full stack developer based on Addis Ababa. who loves mern stack.
+
+### Developer 18
+- **Name:** Harun Bekri
+- **GitHub:** [Hari](https://github.com/hariyebk)
+- **Bio:** 👨‍💻 Next.js Developer | 🛡️ Cyber Security Enthusiast
+
+### Developer 19
+- **Name:** Yoseph Zewdu
+- **GitHub:** [Yosinan](https://github.com/Yosinan)
+- **LinkedIn:** [Yosinan](https://linkedin.com/in/yosinan)
+- **Bio:** Software Engineering Student passionate about building products that solve real-world problems.I work well in teams and am always up for learning new tech and sharing knowledge with others.
+
 
 ## .NET
 
@@ -131,9 +213,15 @@ and Web Scrapping. Learning and Improving Daily.
 
 ### Developer 2
 - **Name:** Dawit Beyene
-- **GitHub:** [Dawit Beyene](https://github.com/daveragos)
-- **Social Media:** https://t.me/ragoose_dumps
-- **Bio:** just a flutter dev
+- **GitHub:** [Dave RaGoose](https://github.com/daveragos)
+- **Social Media:** [Ragoose Dumps](https://t.me/ragoose_dumps)
+- **Bio:** a Flutter dev, who is 👨‍💻 Tech Enthusiast,📱 Flutter Aficionado, 🔧 Problem Solver and 🎓 Continuous Learner that is 🚗 Driven by Passion so 🌟 Connect with me on [Telegram](https://t.me/Daveyeindeko), [LinkedIn](https://www.linkedin.com/in/dave-ragoose/) and [x](https://twitter.com/dave_ragos)
+
+### Developer 3
+- **Name:** Betsegaw Gizaw
+- **GitHub:** [Betsegaw Gizaw](https://github.com/betsegaw1332)
+- **Social Media:** https://t.me/b3753
+- **Bio:** Flutter developer
 
 
 ## PHP

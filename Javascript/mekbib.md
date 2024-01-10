@@ -1,0 +1,3 @@
+- **Name:** Mekbib Tarekegn
+- **GitHub:** [mekbibDev](https://github.com/mekbibDev)
+- **Bio:** I am a Fullstack JS Developer that would like to learn more

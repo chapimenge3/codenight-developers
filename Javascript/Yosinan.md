@@ -1,0 +1,4 @@
+- **Name:** Yoseph Zewdu
+- **GitHub:** [Yosinan](https://github.com/Yosinan)
+- **LinkedIn:** [Yosinan](https://linkedin.com/in/yosinan)
+- **Bio:** Software Engineering Student passionate about building products that solve real-world problems.I work well in teams and am always up for learning new tech and sharing knowledge with others.
