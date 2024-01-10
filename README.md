@@ -64,6 +64,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:** https://kaleb-abiy.netlify.app
 - **Bio:** Backend Web developer mostly working with Python(Django) Kaleb is also capable of working with frontend technologies like React and Angular.
 
+### Developer 10
+**Name:** Abdulwahid Ali
+**GitHub:** https://github.com/awahidanon
+**Bio:** Python backend developer, Django, API and bot development.
+
 
 ## Javascript
 
@@ -124,6 +129,40 @@ and Web Scrapping. Learning and Improving Daily.
 - **Name:** Henok Ayenew
 - **GitHub:** [Henok](https://github.com/henacodes)
 - **Bio:** A passion javascript developer
+
+### Developer 12
+- **Name:** Anwar Nasir
+- **GitHub:** [AnexDev](https://github.com/anexdev1)
+- **Bio:** A creative Fullstack developer mainly focusing on building beautiful UI.
+
+### Developer 13
+- **Name:** Bisrat Kebere 
+- **GitHub:** [BisRyy](https://github.com/bisryy)
+- **LinkedIn:** [BisRy](https://linkedin.com/in/bisry/)
+- **Website:** https://bisry.thearc.tech
+- **Bio:** A Software Engineer who finds joy in witnessing the tangible impact of his work. With 3+ years of experience and specialization in frontend development by NextJS, I excel in design and development of scalable and quility products. *Building the new world, one line at a time.*
+
+### Developer 14
+- **Name:** Samuel Zewde
+- **GitHub:** [Samuel Zewde](https://github.com/samicsc0/)
+- **Bio:** A junior full-stack developer who is currently exploring and learning technologies, utilizing React, Express, and MySQL for building projects. On the side, I develop websites for brands. Also, I also find enjoyment in Java.
+
+### Developer 15
+- **Name:** Ayalkbet Tesfahun(ABBII)
+- **GitHub:** [Tesfaa abi](https://github.com/Atesfahun)
+- **Bio:** A software developer primarily focuses on building visually appealing user interfaces and functional components using JavaScript.
+
+### Developer 16
+- **Name:** Ruth Abiti
+- **GitHub:** [dot-ruth](https://github.com/dot-ruth)
+- **Website:** https://dotsblog.netlify.app/ (just deployed this week, much more content to come)
+- **Bio:** An Enthusiastic Fullstack developer .
+
+### Developer 17
+- **Name:** Bishri Mohammed
+- **GitHub:** [bishrimohammed](https://github.com/bishrimohammed)
+- **Website:** https://bishri.vercel.app/
+- **Bio:** Bishri Mohammed is a full stack developer based on Addis Ababa. who loves mern stack.
 
 
 ## .NET
