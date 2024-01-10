@@ -169,6 +169,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **Website:** https://bishri.vercel.app/
 - **Bio:** Bishri Mohammed is a full stack developer based on Addis Ababa. who loves mern stack.
 
+### Developer 18
+- **Name:** Harun Bekri
+- **GitHub:** [Hari](https://github.com/hariyebk)
+- **Bio:** 👨‍💻 Next.js Developer | 🛡️ Cyber Security Enthusiast
+
 
 ## .NET
 
