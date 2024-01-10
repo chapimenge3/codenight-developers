@@ -121,7 +121,8 @@ and Web Scrapping. Learning and Improving Daily.
 ### Developer 8
 - **Name:** Abdiza Dev
 - **GitHub:** [AbdizaDev](https://github.com/developed-by-abdiza)
-- **Website:** http://abdiza.tech
+- **Website:** [abdiza.tech](https://abdiza.tech)
+- **Social Medias:** [Telegram](https://t.me/abdisaDev) | [X](https://twitter.com/abdisadev)
 - **Bio:** selam 👋,
 
 ### Developer 9
@@ -185,6 +186,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **LinkedIn:** [Yosinan](https://linkedin.com/in/yosinan)
 - **Bio:** Software Engineering Student passionate about building products that solve real-world problems.I work well in teams and am always up for learning new tech and sharing knowledge with others.
 
+### Developer 20
+- **Name:** Lidiya Gezahegn  ( Lindagez )
+- **GitHub:** [Lindagez](https://github.com/Lindagez)
+- **Social Media:*https://www.linkedin.com/in/lidiya-gezahegn-9491a9211/* 
+- **Bio:** Lidiya Gezahegn, whose forte lies in full-stack development with an emphasis on frontend.
+
 
 ## .NET
 
@@ -227,6 +234,11 @@ and Web Scrapping. Learning and Improving Daily.
 ## PHP
 
 ### Developer 1
+### - Name: Tito Frezer
+### - GitHub: [titusfrezer](https://github.com/titusfrezer)
+### - Bio: Backend developer specializing on laravel/php. I am also experienced on docker/github-actions and other CI/CD principles.
+
+### Developer 2
 - **Name:** Abdurahman Abdela
 - **GitHub:** [Abdurahman Abdela](https://github.com/abdurahmanab)
 - **Bio:** Abdurahman Abdela is a software engineering studnet at ASTU  that have experience in php and laravel.
