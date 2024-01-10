@@ -140,7 +140,7 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [BisRyy](https://github.com/bisryy)
 - **LinkedIn:** [BisRy](https://linkedin.com/in/bisry/)
 - **Website:** https://bisry.thearc.tech
-- **Bio:** A Software Engineer who finds joy in witnessing the tangible impact of his work. With 3+ years of experience and specialization in frontend development by NextJS, I excel in design and development of scalable and quility products. *Building the new world, one line at a time.*
+- **Bio:** A Software Engineer who finds joy in witnessing the tangible impact of his work. With 3+ years of experience and specialization in frontend development by NextJS, I excel in design and development of scalable and quality products. *Building the new world, one line at a time.*
 
 ### Developer 14
 - **Name:** Samuel Zewde
