@@ -121,7 +121,8 @@ and Web Scrapping. Learning and Improving Daily.
 ### Developer 8
 - **Name:** Abdiza Dev
 - **GitHub:** [AbdizaDev](https://github.com/developed-by-abdiza)
-- **Website:** http://abdiza.tech
+- **Website:** https://abdiza.tech
+- **Social Media:** [Telegram](https://t.me/abdisaDev)
 - **Bio:** selam 👋,
 
 ### Developer 9
