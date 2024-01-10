@@ -174,6 +174,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [Hari](https://github.com/hariyebk)
 - **Bio:** 👨‍💻 Next.js Developer | 🛡️ Cyber Security Enthusiast
 
+### Developer 19
+- **Name:** Yoseph Zewdu
+- **GitHub:** [Yosinan](https://github.com/Yosinan)
+- **LinkedIn:** [Yosinan](https://linkedin.com/in/yosinan)
+- **Bio:** Software Engineering Student passionate about building products that solve real-world problems.I work well in teams and am always up for learning new tech and sharing knowledge with others.
+
 
 ## .NET
 
