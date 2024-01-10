@@ -230,6 +230,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **Social Media:** https://t.me/b3753
 - **Bio:** Flutter developer
 
+### Developer 4
+- **Name:** Dechasa Teshome 
+- **Social Media:** https://t.me/urlocalcoder
+- **GitHub:** [Dechie](https://github.com/Dechie)
+- **Bio:** I am Flutter developer working on mobile and backend development. I also work on Laravel.
+
 
 ## PHP
 
