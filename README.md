@@ -234,6 +234,11 @@ and Web Scrapping. Learning and Improving Daily.
 ## PHP
 
 ### Developer 1
+### - Name: Tito Frezer
+### - GitHub: [titusfrezer](https://github.com/titusfrezer)
+### - Bio: Backend developer specializing on laravel/php. I am also experienced on docker/github-actions and other CI/CD principles.
+
+### Developer 2
 - **Name:** Abdurahman Abdela
 - **GitHub:** [Abdurahman Abdela](https://github.com/abdurahmanab)
 - **Bio:** Abdurahman Abdela is a software engineering studnet at ASTU  that have experience in php and laravel.
