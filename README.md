@@ -208,6 +208,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [Dru-Go](https://github.com/Dru-Go)
 - **Bio:** I don't always write bugs, but when I do, I make sure they're really hard to find!
 
+### Developer 2
+- **Name:** Bete Goshme.
+- **GitHub:** [bete7512](https://github.com/bete7512)
+- **Bio:** Former Farmer and Passionate Devops, cloud and System Architechture
+
 
 ## Flutter
 
