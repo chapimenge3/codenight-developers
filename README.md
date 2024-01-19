@@ -79,6 +79,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [D3mah](https://github.com/d3mah-24) 
 - **Bio:** I'm a Python backend and Odoo ERP developer.
 
+### Developer 13
+- **Name:** Degisew Mengist
+- **GitHub:** [degisew](https://github.com/degisew)
+- **Website:** https://degisew-portfolio.netlify.app
+- **Bio:** I'm Dagi, a Software engineer with three years of expertise in developing and maintaining high-performance web applications globally. Proficient in Python, Django, JavaScript, and databases. Specializes in architecting scalable, high-quality and secure server-side solutions.
+
 
 ## Javascript
 
