@@ -198,6 +198,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **Social Media:*https://www.linkedin.com/in/lidiya-gezahegn-9491a9211/* 
 - **Bio:** Lidiya Gezahegn, whose forte lies in full-stack development with an emphasis on frontend.
 
+### Developer 21
+- Name: Abdulahi Muhammed
+- GitHub: [Oscarj-8](https://github.com/Oscarj-8)
+- Website: https://abdulahimuhammedportfolio.vercel.app/
+- Bio: 🚀 Front-End aficionado and Full Stack Developer, shaping seamless user experiences with React and materializing designs on Figma.
+
 
 ## .NET
 
