@@ -2,4 +2,4 @@
 - **GitHub:** [AbdizaDev](https://github.com/developed-by-abdiza)
 - **Website:** [abdiza.tech](https://abdiza.tech)
 - **Social Medias:** [Telegram](https://t.me/abdisaDev) | [X](https://twitter.com/abdisadev)
-- **Bio:** <Developer />,
+- **Bio:** <Developer />
