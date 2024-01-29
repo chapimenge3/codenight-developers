@@ -79,6 +79,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [D3mah](https://github.com/d3mah-24) 
 - **Bio:** I'm a Python backend and Odoo ERP developer.
 
+### Developer 13
+- **Name:** Degisew Mengist
+- **GitHub:** [degisew](https://github.com/degisew)
+- **Website:** https://degisew-portfolio.netlify.app
+- **Bio:** I'm Dagi, a Software engineer with three years of expertise in developing and maintaining high-performance web applications globally. Proficient in Python, Django, JavaScript, and databases. Specializes in architecting scalable, high-quality and secure server-side solutions.
+
 
 ## Javascript
 
@@ -121,8 +127,8 @@ and Web Scrapping. Learning and Improving Daily.
 ### Developer 8
 - **Name:** Abdiza Dev
 - **GitHub:** [AbdizaDev](https://github.com/developed-by-abdiza)
-- **Website:** https://abdiza.tech
-- **Social Media:** [Telegram](https://t.me/abdisaDev)
+- **Website:** [abdiza.tech](https://abdiza.tech)
+- **Social Medias:** [Telegram](https://t.me/abdisaDev) | [X](https://twitter.com/abdisadev)
 - **Bio:** selam 👋,
 
 ### Developer 9
@@ -192,6 +198,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **Social Media:*https://www.linkedin.com/in/lidiya-gezahegn-9491a9211/* 
 - **Bio:** Lidiya Gezahegn, whose forte lies in full-stack development with an emphasis on frontend.
 
+### Developer 21
+- Name: Abdulahi Muhammed
+- GitHub: [Oscarj-8](https://github.com/Oscarj-8)
+- Website: https://abdulahimuhammedportfolio.vercel.app/
+- Bio: 🚀 Front-End aficionado and Full Stack Developer, shaping seamless user experiences with React and materializing designs on Figma.
+
 
 ## .NET
 
@@ -207,6 +219,11 @@ and Web Scrapping. Learning and Improving Daily.
 - **Name:** Dera Adugna.
 - **GitHub:** [Dru-Go](https://github.com/Dru-Go)
 - **Bio:** I don't always write bugs, but when I do, I make sure they're really hard to find!
+
+### Developer 2
+- **Name:** Bete Goshme.
+- **GitHub:** [bete7512](https://github.com/bete7512)
+- **Bio:** Former Farmer and Passionate Devops, cloud and System Architechture
 
 
 ## Flutter
@@ -230,10 +247,27 @@ and Web Scrapping. Learning and Improving Daily.
 - **Social Media:** https://t.me/b3753
 - **Bio:** Flutter developer
 
+### Developer 4
+- **Name:** Dechasa Teshome 
+- **Social Media:** https://t.me/urlocalcoder
+- **GitHub:** [Dechie](https://github.com/Dechie)
+- **Bio:** I am Flutter developer working on mobile and backend development. I also work on Laravel.
+
+### Developer 5
+- **Name:** Besufikad Micheal 
+- **Website:** https://besufikad17.github.io
+- **GitHub:** [Besufikad17](https://github.com/Besufikad17)
+- **Bio:** Software Engineering student in ASTU. I work on mobile app development (using Flutter) and backend (using expressJs and laravel).
+
 
 ## PHP
 
 ### Developer 1
+### - Name: Tito Frezer
+### - GitHub: [titusfrezer](https://github.com/titusfrezer)
+### - Bio: Backend developer specializing on laravel/php. I am also experienced on docker/github-actions and other CI/CD principles.
+
+### Developer 2
 - **Name:** Abdurahman Abdela
 - **GitHub:** [Abdurahman Abdela](https://github.com/abdurahmanab)
 - **Bio:** Abdurahman Abdela is a software engineering studnet at ASTU  that have experience in php and laravel.

@@ -1,0 +1,4 @@
+- **Name:** Degisew Mengist
+- **GitHub:** [degisew](https://github.com/degisew)
+- **Website:** https://degisew-portfolio.netlify.app
+- **Bio:** I'm Dagi, a Software engineer with three years of expertise in developing and maintaining high-performance web applications globally. Proficient in Python, Django, JavaScript, and databases. Specializes in architecting scalable, high-quality and secure server-side solutions.
