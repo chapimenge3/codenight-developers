@@ -129,7 +129,7 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [AbdizaDev](https://github.com/developed-by-abdiza)
 - **Website:** [abdiza.tech](https://abdiza.tech)
 - **Social Medias:** [Telegram](https://t.me/abdisaDev) | [X](https://twitter.com/abdisadev)
-- **Bio:** selam 👋,
+- **Bio:** Developer </>
 
 ### Developer 9
 - **Name:** Dereje Seifu
