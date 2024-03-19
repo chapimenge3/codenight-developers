@@ -1,0 +1,4 @@
+- **Name:** Yegetaneh Firew(aka Nahtty)
+- **GitHub:** [lijnati](https://github.com/lijnati)
+- **Linkedin:** [Yegetaneh](https://linkedin.com/in/yegetaneh-firew-995119201)
+- **Bio:** I am Full-Stack Developer 👨‍💻 ||Self-taught Programmer💻 and Javascript💛 .
