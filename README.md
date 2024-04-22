@@ -210,6 +210,12 @@ and Web Scrapping. Learning and Improving Daily.
 - **Linkedin:** [Yegetaneh](https://linkedin.com/in/yegetaneh-firew-995119201)
 - **Bio:** I am Full-Stack Developer 👨‍💻 ||Self-taught Programmer💻 and Javascript💛 .
 
+### Developer 23
+- **Name:** Mohammed Ibrahim (DoughNut)
+- **GitHub:** [MohammedIbrahim](https://github.com/MohammedIbrahim8887)
+- **Website:** https://sanity-portfolio-tau.vercel.app
+- **Bio:** A full-stack coding ninja with 3 years of experience crafting sleek web and mobile apps.
+
 
 ## .NET
 
@@ -269,14 +275,14 @@ and Web Scrapping. Learning and Improving Daily.
 ## PHP
 
 ### Developer 1
-- **Name:** Abdurahman Abdela
-- **GitHub:** [Abdurahman Abdela](https://github.com/abdurahmanab)
-- **Bio:** Abdurahman Abdela is a software engineering studnet at ASTU  that have experience in php and laravel.
-
-### Developer 2
 ### - Name: Tito Frezer
 ### - GitHub: [titusfrezer](https://github.com/titusfrezer)
 ### - Bio: Backend developer specializing on laravel/php. I am also experienced on docker/github-actions and other CI/CD principles.
+
+### Developer 2
+- **Name:** Abdurahman Abdela
+- **GitHub:** [Abdurahman Abdela](https://github.com/abdurahmanab)
+- **Bio:** Abdurahman Abdela is a software engineering studnet at ASTU  that have experience in php and laravel.
 
 
 ## Contributing
