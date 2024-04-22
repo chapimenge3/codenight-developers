@@ -1,0 +1,4 @@
+- **Name:** Mohammed Ibrahim (DoughNut)
+- **GitHub:** [MohammedIbrahim](https://github.com/MohammedIbrahim8887)
+- **Website:** https://sanity-portfolio-tau.vercel.app
+- **Bio:** A full-stack coding ninja with 3 years of experience crafting sleek web and mobile apps.
