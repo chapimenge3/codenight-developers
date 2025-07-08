@@ -1,0 +1,4 @@
+- **Name:** Yohannes Haile
+- **GitHub:** [Yohannes Haile](https://github.com/yohannescodes)
+- **Website:** https://www.yohannescodes.com
+- **Bio:** iOS engineer with 3+ years of experience building Swift-based apps and reusable frameworks, delivering high-quality user experiences and scalable solutions aligned with Apple’s design principles.
