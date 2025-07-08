@@ -9,6 +9,7 @@ A list of CodeNight Telegram Group Developer
 - [Go Developer](#Go)
 - [Flutter Developer](#Flutter)
 - [PHP Developer](#PHP)
+- [Swift Developer](#Swift)
 
 ## Python
 
@@ -283,6 +284,15 @@ and Web Scrapping. Learning and Improving Daily.
 ### - Name: Tito Frezer
 ### - GitHub: [titusfrezer](https://github.com/titusfrezer)
 ### - Bio: Backend developer specializing on laravel/php. I am also experienced on docker/github-actions and other CI/CD principles.
+
+
+## Swift
+
+### Developer 1
+- **Name:** Yohannes Haile
+- **GitHub:** [Yohannes Haile](https://github.com/yohannescodes)
+- **Website:** https://www.yohannescodes.com
+- **Bio:** iOS engineer with 3+ years of experience building Swift-based apps and reusable frameworks, delivering high-quality user experiences and scalable solutions aligned with Apple’s design principles.
 
 
 ## Contributing
