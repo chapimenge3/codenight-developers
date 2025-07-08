@@ -113,7 +113,7 @@ and Web Scrapping. Learning and Improving Daily.
 ### Developer 5
 - **Name:** Haileiyesus.
 - **GitHub:** [Haileiyesus](https://github.com/haileiyesus-29)
-- **Bio:** A sfullstack javascipt and Typescript developer. currently open for jobs.
+- **Bio:** A fullstack javascipt and Typescript developer. currently open for jobs.
 
 ### Developer 6
 - **Name:** Abel Ayalew
