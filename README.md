@@ -9,6 +9,7 @@ A list of CodeNight Telegram Group Developer
 - [Go Developer](#Go)
 - [Flutter Developer](#Flutter)
 - [PHP Developer](#PHP)
+- [Swift Developer](#Swift)
 
 ## Python
 
@@ -284,6 +285,13 @@ and Web Scrapping. Learning and Improving Daily.
 - **GitHub:** [Abdurahman Abdela](https://github.com/abdurahmanab)
 - **Bio:** Abdurahman Abdela is a software engineering studnet at ASTU  that have experience in php and laravel.
 
+## Swift
+
+### Developer 1
+- **Name:** Yohannes Haile
+- **GitHub:** [Yohannes Haile](https://github.com/yohannescodes)
+- **Website:** https://www.yohannescodes.com
+- **Bio:** iOS engineer with 3+ years of experience building Swift-based apps and reusable frameworks, delivering high-quality user experiences and scalable solutions aligned with Apple’s design principles.
 
 ## Contributing
 
